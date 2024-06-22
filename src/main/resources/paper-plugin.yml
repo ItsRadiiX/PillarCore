@@ -1,0 +1,5 @@
+name: PillarCore
+version: '1.0'
+main: nl.bryansuk.pillarcore.PillarCore
+description: PillarCore
+api-version: '1.20'
